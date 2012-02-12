@@ -1,0 +1,8 @@
+C:\t\SkySight\SkySight\bin\Debug\SkySight.exe
+C:\t\SkySight\SkySight\bin\Debug\SkySight.pdb
+C:\t\SkySight\SkySight\obj\x86\Debug\SkySight.csprojResolveAssemblyReference.cache
+C:\t\SkySight\SkySight\obj\x86\Debug\SkySight.Properties.Resources.resources
+C:\t\SkySight\SkySight\obj\x86\Debug\SkySight.csproj.GenerateResource.Cache
+C:\t\SkySight\SkySight\obj\x86\Debug\SkySight.exe
+C:\t\SkySight\SkySight\obj\x86\Debug\SkySight.pdb
+C:\t\SkySight\SkySight\obj\x86\Debug\SkySight.Interface.resources
